@@ -23,9 +23,12 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.css",
+              "Proyecto-Final-Nicolas-Granado/node_modules/bootstrap/dist/css/bootstrap.css"          
             ],
-            "scripts": []
+            "scripts": [
+              "Proyecto-Final-Nicolas-Granado/node_modules/bootstrap/dist/js/bootstrap.js"
+            ]
           },
           "configurations": {
             "production": {
@@ -97,5 +100,8 @@
         }
       }
     }
+  },
+  "cli": {
+    "analytics": "b87376d8-5228-4ed7-b731-7679916ac77c"
   }
 }
